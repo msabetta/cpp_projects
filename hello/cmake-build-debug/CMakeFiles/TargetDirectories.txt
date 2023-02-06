@@ -1,0 +1,4 @@
+C:/Users/msabetta/Desktop/projects/hello/cmake-build-debug/CMakeFiles/cpptime.dir
+C:/Users/msabetta/Desktop/projects/hello/cmake-build-debug/CMakeFiles/hello.dir
+C:/Users/msabetta/Desktop/projects/hello/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/msabetta/Desktop/projects/hello/cmake-build-debug/CMakeFiles/rebuild_cache.dir
